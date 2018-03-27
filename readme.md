@@ -1,0 +1,1 @@
+## Simple Nodejs-typescript server project structure
